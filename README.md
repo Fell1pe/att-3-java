@@ -1,5 +1,5 @@
 
-### exemplo.html
+## exemplo.html
 ### Função do Código
 
 Este código JavaScript exibe a URL completa da página atual no navegador.
