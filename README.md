@@ -2,6 +2,9 @@
 # ANÁLISE DE CÓDIGO EM JAVASCRIPT
 
 ## [exemplo.html](exemplo.html)
+
+<img src = "Captura de tela 1.png">
+
 ### Função do Código
 
 Este código JavaScript exibe a URL completa da página atual no navegador.
@@ -24,6 +27,8 @@ https://www.exemplo.com/pagina
 ```
 
 ## [exemplo2.html](exemplo2.html)
+
+<img src = "Captura de tela 2.png">
 
 ### Função do Código
 
