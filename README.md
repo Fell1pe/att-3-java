@@ -3,7 +3,7 @@
 
 ## [exemplo.html](exemplo.html)
 
-<img src = "Captura de tela 1.png">
+<img src = "img1.png">
 
 ### Função do Código
 
@@ -28,7 +28,7 @@ https://www.exemplo.com/pagina
 
 ## [exemplo2.html](exemplo2.html)
 
-<img src = "Captura de tela 2.png">
+<img src = "img2.png">
 
 ### Função do Código
 
